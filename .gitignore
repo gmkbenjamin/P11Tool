@@ -21,3 +21,6 @@ Thumbs.db
 *.pin
 wrapped.key
 signature.bin
+
+# User-specific IDE state must stay local.
+.idea/workspace.xml
